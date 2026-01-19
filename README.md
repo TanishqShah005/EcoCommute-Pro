@@ -31,7 +31,7 @@ Unlike simple calculators, this tool uses a **Session-Based Itinerary Tracker** 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/TanishqShah005/ecocommute-pro.git]
+    git clone [[https://github.com/TanishqShah005/ecocommute-pro.git]](https://github.com/TanishqShah005/EcoCommute-Pro)
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -48,12 +48,8 @@ Unlike simple calculators, this tool uses a **Session-Based Itinerary Tracker** 
 
 ---
 
-## 📸 Screenshots
-
-
----
-
 ## 📜 License
 
 This project was developed for the **1M1B AI for Sustainability Virtual Internship** in collaboration with IBM SkillsBuild.
+
 
