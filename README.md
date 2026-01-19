@@ -1,8 +1,6 @@
 # 🌍 EcoCommute Pro: AI Sustainability Analytics
 
 ### 🏆 1M1B AI for Sustainability Internship Project
-**Student Name:** Tanishq Shah  
-**College:** Walchand Institute of Technology, Solapur, India 
 **SDG Alignment:** SDG 13 (Climate Action) & SDG 11 (Sustainable Cities)
 
 ---
@@ -58,3 +56,4 @@ Unlike simple calculators, this tool uses a **Session-Based Itinerary Tracker** 
 ## 📜 License
 
 This project was developed for the **1M1B AI for Sustainability Virtual Internship** in collaboration with IBM SkillsBuild.
+
